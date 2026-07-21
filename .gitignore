@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Chart outputs (generated at runtime)
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
