@@ -265,7 +265,6 @@ These are useful for identification or reference, but they do not represent beha
 
 ## Effective dating approach
 
-This project does not use full SCD2 warehouse logic, but it does use a comparable **baseline-versus-match** comparison approach.
 
 ### Baseline
 For each player, compute:

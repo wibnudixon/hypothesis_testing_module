@@ -1,52 +1,95 @@
-name,first_name,last_name,short_name,position,jersey_number,height,team_id,shirt_number,substitute,total_pass,accurate_pass,total_long_balls,accurate_long_balls,goal_assist,accurate_own_half_passes,total_own_half_passes,accurate_opposition_half_passes,total_opposition_half_passes,duel_lost,challenge_lost,ball_recovery,good_high_claim,saved_shots_from_inside_the_box,penalty_faced,saves,minutes_played,touches,rating,possession_lost_ctrl,expected_assists,keeper_save_value,total_shots,goals_prevented,pass_value_normalized,defensive_value_normalized,goalkeeper_value_normalized,total_cross,aerial_lost,aerial_won,duel_won,total_contest,outfielder_block,interception_won,total_tackle,won_tackle,unsuccessful_touch,penalty_conceded,was_fouled,fouls,top_speed,kilometers_covered,number_of_sprints,total_ball_carries_distance,ball_carries_count,total_progression,best_ball_carry_progression,total_progressive_ball_carries_distance,progressive_ball_carries_count,dribble_value_normalized,meters_covered_running_km,meters_covered_high_speed_running_km,meters_covered_sprinting_km,dispossessed,total_clearance,won_contest,clearance_off_line,last_man_tackle,blocked_scoring_attempt,expected_goals,key_pass,shot_value_normalized,big_chance_created,shot_off_target,big_chance_missed,on_target_scoring_attempt,expected_goals_on_target,goals,total_offside,total_keeper_sweeper,accurate_keeper_sweeper,penalty_won,accurate_cross,error_lead_to_ashot,team_name,captain,match_id,home_team,away_team,home_score,away_score,tournament,season,status,start_time
-Mike Maignan,Mike,Maignan,M. Maignan,G,16.0,190,4481,16,False,12.0,11.0,3.0,2.0,0.0,10.0,10.0,1.0,2.0,1.0,1.0,4.0,1.0,3.0,1.0,4.0,90.0,20.0,6.5,1.0,0.00031743,0.9139,0,-1.0147,0.03,-0.64,0.42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Malo Gusto,,,M. Gusto,D,27.0,179,4481,2,False,42.0,36.0,1.0,1.0,0.0,13.0,14.0,23.0,28.0,7.0,3.0,6.0,,,,,89.0,60.0,5.5,11.0,0.0254452,,0,,0.16,-1.0,,2.0,1.0,1.0,6.0,1.0,2.0,2.0,3.0,3.0,2.0,1.0,2.0,2.0,34.36,9.97,20.0,153.39462341511,17.0,115.35390457503,35.247134216818,77.356652075759,4.0,0.32,1.69,0.73,0.4,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Ibrahima Konaté,Ibrahima,Konate,I. Konaté,D,5.0,195,4481,15,False,23.0,21.0,,,0.0,11.0,12.0,10.0,11.0,3.0,,1.0,,,,,45.0,27.0,5.5,4.0,0.00276378,,0,,0.05,-0.71,,,,,1.0,,,,,,1.0,,1.0,2.0,29.88,4.85,8.0,76.709429151816,12.0,14.4090655945,,,0.0,0.04,0.76,0.29,0.13,1.0,1.0,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Maxence Lacroix,Maxence,Lacroix,M. Lacroix,D,5.0,192,4481,26,False,35.0,34.0,1.0,1.0,0.0,25.0,25.0,9.0,10.0,4.0,1.0,2.0,,,,,90.0,46.0,7.2,1.0,0.00801729,,0,,0.06,0.22,,,2.0,3.0,5.0,1.0,4.0,1.0,1.0,1.0,,,,1.0,34.31,9.46,15.0,106.32094499021,13.0,59.502657329476,,,0.0,0.04,1.47,0.41,0.36,,4.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Theo Hernández,Theo,Hernandez,T. Hernández,D,19.0,184,4481,19,False,24.0,20.0,3.0,,0.0,11.0,13.0,9.0,11.0,,,3.0,,,,,45.0,29.0,5.8,5.0,0.0487817,,0,,0.1,-0.57,,1.0,,,,,1.0,1.0,,,,,,,35.47,5.09,11.0,131.76702155643,11.0,62.770643433051,33.231879383597,74.142407482668,3.0,0.11,0.81,0.36,0.29,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Warren Zaïre-Emery,,,W. Zaïre-Emery,M,33.0,178,4481,18,False,57.0,54.0,3.0,2.0,0.0,20.0,20.0,34.0,37.0,3.0,1.0,7.0,,,,,90.0,63.0,6.6,6.0,0.0376881,,1,,0.27,-0.19,,,,1.0,1.0,,,,,,1.0,,,,29.52,11.02,8.0,187.29924291829,23.0,95.231662678271,16.298076690914,16.897245337628,1.0,0.28,2.0,0.59,0.12,2.0,1.0,,,,1.0,0.0274,2.0,0.0,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Adrien Rabiot,Adrien,Rabiot,A. Rabiot,M,12.0,191,4481,14,False,40.0,37.0,1.0,1.0,0.0,11.0,13.0,26.0,27.0,7.0,2.0,4.0,,,,,90.0,55.0,6.1,6.0,0.0245587,,1,,0.07,-0.36,,,1.0,,3.0,1.0,,2.0,2.0,2.0,1.0,,1.0,2.0,28.05,10.73,4.0,116.04412797838,14.0,59.436125767456,,,0.0,0.08,1.73,0.43,0.03,1.0,1.0,,,,,0.0649,2.0,-0.11,1.0,1.0,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Michael Olise,,,M. Olise,M,17.0,184,4481,11,False,56.0,50.0,2.0,1.0,2.0,18.0,18.0,32.0,38.0,9.0,2.0,6.0,,,,,90.0,82.0,6.9,15.0,0.818475,,3,,0.77,-0.43,,,,,6.0,4.0,,,5.0,2.0,2.0,,,1.0,33.18,11.3,16.0,322.66086829922,28.0,195.06522786359,28.927895021171,158.66130116409,9.0,0.5,1.84,0.62,0.31,3.0,,1.0,,,,0.4238,4.0,-0.69,2.0,3.0,1.0,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Rayan Cherki,,,R. Cherki,M,10.0,176,4481,24,False,29.0,25.0,4.0,2.0,0.0,10.0,11.0,15.0,18.0,1.0,,3.0,,,,,45.0,35.0,6.4,7.0,0.247445,,1,,0.05,-0.22,,,,,1.0,,,,,,2.0,,1.0,,27.97,5.86,5.0,50.694465546411,8.0,29.206625936513,,,0.0,0.16,1.0,0.3,0.06,1.0,,,,,,0.0447,,-0.02,,,,1.0,0.1158,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Désiré Doué,Désiré Doué,,D. Doué,F,14.0,181,4481,20,False,20.0,19.0,2.0,2.0,0.0,9.0,10.0,10.0,10.0,3.0,1.0,1.0,,,,,45.0,28.0,5.8,3.0,0.0229417,,0,,-0.07,-0.27,,,,,4.0,2.0,,,1.0,,,,2.0,1.0,30.99,5.99,10.0,43.51513108406,7.0,24.671313612486,9.3666367404534,10.868417364088,1.0,-0.23,1.24,0.41,0.15,,,1.0,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Kylian Mbappé,,,K. Mbappé,F,10.0,180,4481,10,False,32.0,28.0,4.0,3.0,1.0,3.0,3.0,25.0,29.0,14.0,2.0,,,,,,90.0,61.0,9.9,18.0,0.732517,,8,,0.65,-0.13,,,1.0,,2.0,7.0,,,,,2.0,,,,34.27,8.29,10.0,236.98441605037,21.0,173.26579676475,36.112181577239,163.17195876988,10.0,1.0,1.04,0.28,0.13,6.0,,2.0,,,2.0,1.398,2.0,0.8,1.0,2.0,1.0,4.0,1.9351,2.0,2.0,,,,,,France,True,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Dayot Upamecano,Dayot,Upamecano,D. Upamecano,D,2.0,185,4481,4,True,13.0,12.0,1.0,1.0,1.0,4.0,4.0,8.0,9.0,6.0,5.0,3.0,,,,,45.0,22.0,6.6,1.0,0.00542382,,1,,0.3,-0.48,,,,,3.0,,,2.0,3.0,1.0,,,,1.0,31.59,4.73,9.0,56.432747956729,7.0,47.425427103221,15.605243015143,28.893594999776,2.0,0.14,0.53,0.25,0.19,,1.0,,,,,0.0304,1.0,0.12,1.0,,,1.0,0.3064,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Lucas Digne,,,L. Digne,D,12.0,178,4481,3,True,16.0,15.0,,,0.0,6.0,6.0,9.0,10.0,3.0,,2.0,,,,,45.0,23.0,6.2,4.0,0.0272299,,0,,0.02,-0.34,,1.0,,3.0,3.0,1.0,,1.0,,,,,,2.0,29.2,4.91,5.0,57.810573724958,6.0,41.265573354617,,,0.0,0.04,0.82,0.26,0.08,,2.0,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Ousmane Dembélé,Ousmane,Dembele,O. Dembélé,F,10.0,178,4481,7,True,29.0,25.0,1.0,1.0,0.0,5.0,5.0,20.0,24.0,2.0,2.0,2.0,,,,,45.0,34.0,8.3,5.0,0.599123,,2,,0.4,-0.1,,1.0,,,2.0,1.0,,,,,,,1.0,,32.6,5.03,10.0,117.16180975398,15.0,96.638795635504,20.409854029621,81.49068271971,7.0,0.49,0.91,0.37,0.15,,,1.0,,,,0.481,2.0,0.48,1.0,,,2.0,1.0032,1.0,1.0,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Bradley Barcola,,,B. Barcola,F,29.0,182,4481,12,True,12.0,12.0,,,0.0,3.0,3.0,9.0,9.0,5.0,2.0,2.0,,,,,45.0,20.0,7.7,2.0,0.0508359,,2,,0.08,-0.09,,,,,2.0,1.0,,,1.0,1.0,1.0,,,2.0,34.5,4.84,7.0,88.636786405721,8.0,65.31039371117,18.879977365149,61.708124910536,4.0,0.52,0.57,0.26,0.12,1.0,,1.0,,,1.0,0.4106,1.0,0.47,,,,1.0,0.803,1.0,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Jules Koundé,Jules,Kounde,J. Koundé,D,23.0,180,4481,5,True,5.0,5.0,,,0.0,1.0,1.0,4.0,4.0,1.0,1.0,1.0,,,,,8.0,5.0,6.3,,0.00949252,,0,,0.13,-0.22,,,,,,,,,,,,,,,29.9,0.75,3.0,17.248262782089,1.0,14.731092613039,14.731092613039,17.248262782089,1.0,0.02,0.11,0.1,0.04,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Robin Risser,Robin Risser,,R. Risser,G,40.0,193,4481,23,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Brice Samba,Brice,Samba,B. Samba,G,30.0,186,4481,1,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Lucas Hernández,,,L. Hernández,D,21.0,183,4481,21,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-William Saliba,William,Saliba,W. Saliba,D,2.0,193,4481,17,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Aurélien Tchouaméni,Aurelien,Tchouameni,A. Tchouaméni,M,14.0,188,4481,8,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Maghnes Akliouche,,,M. Akliouche,M,11.0,183,4481,25,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Manu Koné,,,M. Koné,M,17.0,186,4481,6,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-N'Golo Kanté,,,N. Kanté,M,17.0,169,4481,13,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Jean-Philippe Mateta,Jean Philippe,Mateta,J. Mateta,F,14.0,192,4481,22,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Marcus Thuram,Marcus,Thuram,M. Thuram,F,9.0,192,4481,9,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Dean Henderson,Dean,Henderson,D. Henderson,G,1.0,188,4713,13,False,37.0,28.0,13.0,4.0,0.0,26.0,29.0,2.0,8.0,,,6.0,,2.0,,5.0,90.0,47.0,7.4,9.0,0.00223411,0.9277,0,0.1636,0.17,-0.38,0.6,,,,,,,1.0,,,,,,,,,,47.756242589961,8.0,23.143660058091,,,0.0,0.02,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Jarell Quansah,,,J. Quansah,D,4.0,190,4713,26,False,35.0,32.0,2.0,1.0,0.0,22.0,25.0,10.0,10.0,3.0,2.0,5.0,,,,,83.0,44.0,6.2,5.0,0.00410442,,0,,0.08,-0.49,,,,,4.0,1.0,,,1.0,,1.0,,2.0,1.0,31.51,8.4,4.0,97.748885828765,11.0,52.267766722614,21.395353144665,22.050943653277,1.0,0.16,1.32,0.39,0.04,,1.0,1.0,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Ezri Konsa,,,E. Konsa,D,4.0,183,4713,2,False,47.0,45.0,1.0,,0.0,40.0,40.0,5.0,7.0,2.0,,7.0,,,,,90.0,61.0,7.3,3.0,0.00257109,,1,,0.14,-0.59,,,,2.0,6.0,2.0,1.0,4.0,2.0,2.0,,,,1.0,29.25,9.24,9.0,103.37476026659,15.0,35.814409170582,,,0.0,0.18,1.17,0.38,0.1,1.0,1.0,2.0,,,,0.0943,,0.49,,,,1.0,0.6918,1.0,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Marc Guéhi,Marc,Guehi,M. Guéhi,D,15.0,182,4713,6,False,77.0,72.0,5.0,1.0,0.0,59.0,62.0,13.0,15.0,1.0,,1.0,,,,,89.0,88.0,7.3,5.0,0.00413899,,0,,0.27,0.74,,,,,4.0,1.0,,2.0,2.0,1.0,,,1.0,1.0,30.37,9.07,8.0,272.76757869678,32.0,179.94019528315,30.557943725582,32.888672578868,1.0,0.23,1.14,0.46,0.07,,3.0,1.0,,2.0,,,1.0,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Djed Spence,,,D. Spence,D,24.0,184,4713,25,False,37.0,32.0,2.0,1.0,0.0,16.0,18.0,16.0,19.0,5.0,,3.0,,,,,90.0,60.0,6.9,9.0,0.0108482,,0,,0.08,-0.26,,,,,10.0,4.0,,1.0,5.0,3.0,1.0,,2.0,2.0,34.45,9.68,22.0,225.18900871601,15.0,102.6061809989,34.141141911009,110.0311110728,4.0,0.1,1.32,0.48,0.33,2.0,3.0,3.0,,1.0,,,,,,,,,,,,,,1.0,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Declan Rice,Declan,Rice,D. Rice,M,41.0,188,4713,4,False,91.0,87.0,3.0,2.0,1.0,62.0,63.0,25.0,28.0,2.0,1.0,8.0,,,,,90.0,112.0,9.6,7.0,0.199575,,1,,0.73,0.19,,5.0,,,7.0,,2.0,3.0,7.0,2.0,1.0,,,1.0,32.83,10.23,10.0,207.98039717587,27.0,28.477341216067,20.161530561416,31.633785873687,2.0,0.29,1.12,0.38,0.2,,,,,,,0.0447,2.0,0.51,,,,1.0,0.2935,1.0,,,,,3.0,,England,True,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Bukayo Saka,Bukayo,Saka,B. Saka,F,7.0,178,4713,7,False,23.0,18.0,2.0,1.0,0.0,8.0,10.0,10.0,13.0,5.0,,5.0,,,,,90.0,42.0,9.5,10.0,0.207253,,5,,-0.33,-0.16,,4.0,4.0,,6.0,1.0,,,3.0,1.0,1.0,,2.0,,34.62,10.48,20.0,209.60341984469,17.0,133.57251709134,24.828668949424,123.93999099729,6.0,0.48,1.73,0.79,0.35,1.0,,1.0,,,1.0,1.4944,3.0,1.0,1.0,,1.0,4.0,2.2047,3.0,1.0,,,,1.0,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Morgan Rogers,,,M. Rogers,M,27.0,187,4713,17,False,42.0,38.0,3.0,3.0,0.0,23.0,24.0,15.0,18.0,4.0,2.0,6.0,,,,,90.0,52.0,6.5,7.0,0.0597965,,1,,0.12,-0.42,,,,,5.0,3.0,,,1.0,,,,2.0,,32.67,11.15,7.0,171.47883952315,22.0,70.688913430187,13.195773236049,13.337799256249,1.0,0.12,1.71,0.63,0.16,1.0,,2.0,,,1.0,0.0676,3.0,0.02,,,,,,,,,,,,1.0,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Eberechi Eze,Eberechi,Eze,E. Eze,M,10.0,178,4713,21,False,56.0,56.0,,,1.0,33.0,33.0,23.0,23.0,1.0,,2.0,,,,,79.0,69.0,7.5,4.0,0.834439,,3,,0.58,-0.1,,,,,4.0,3.0,,,,,2.0,,1.0,1.0,32.33,8.84,9.0,138.48465829734,19.0,24.933774770681,11.367245932639,22.178072504165,1.0,0.25,1.64,0.36,0.14,,1.0,3.0,,,2.0,0.0785,2.0,-0.23,,1.0,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Marcus Rashford,Marcus,Rashford,M. Rashford,F,10.0,188,4713,11,False,20.0,18.0,1.0,,1.0,8.0,8.0,10.0,12.0,2.0,,1.0,,,,,45.0,34.0,6.9,7.0,0.065305,,3,,0.25,0.13,,2.0,,,2.0,3.0,,,,,,,,,33.99,5.9,16.0,97.95297129039,10.0,75.028859761091,25.409827468375,57.66448812068,3.0,0.35,0.86,0.34,0.34,1.0,,2.0,,,1.0,0.5092,3.0,-0.54,3.0,,1.0,2.0,0.3096,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Ivan Toney,Ivan,Toney,I. Toney,F,17.0,185,4713,22,False,18.0,14.0,2.0,1.0,0.0,8.0,9.0,6.0,9.0,4.0,,2.0,,,,,79.0,34.0,6.9,7.0,0.00255655,,2,,-0.25,0.18,,,2.0,1.0,6.0,,,,2.0,,1.0,,3.0,,27.72,8.52,8.0,59.381191659927,11.0,7.8565004635427,,,0.0,0.17,1.37,0.4,0.09,2.0,1.0,,,,1.0,0.1122,,0.09,,,1.0,1.0,0.4185,,2.0,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Ollie Watkins,Ollie,Watkins,O. Watkins,F,11.0,179,4713,19,True,11.0,9.0,,,0.0,4.0,4.0,5.0,7.0,6.0,,,,,,,45.0,23.0,6.7,7.0,0.35992,,1,,-0.34,0.29,,1.0,2.0,2.0,6.0,3.0,,,2.0,2.0,1.0,,,1.0,34.69,4.9,11.0,65.486058443614,6.0,55.395644556359,20.290530251649,40.960718345866,2.0,0.26,0.69,0.36,0.31,2.0,,2.0,,,,0.0483,2.0,-0.34,1.0,1.0,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Elliot Anderson,,,E. Anderson,M,8.0,179,4713,8,True,11.0,11.0,,,0.0,8.0,8.0,3.0,3.0,1.0,,1.0,,,,,11.0,14.0,6.5,1.0,0.00053756,,0,,0.02,-0.02,,,,,1.0,,,,1.0,1.0,,,,,27.95,1.88,4.0,27.133396471152,5.0,-11.38314645605,,,0.0,-0.14,0.26,0.13,0.04,1.0,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Jude Bellingham,,,J. Bellingham,M,5.0,188,4713,10,True,9.0,6.0,1.0,1.0,0.0,2.0,4.0,4.0,5.0,2.0,1.0,1.0,,,,,11.0,20.0,8.2,5.0,0.00214113,,2,,0.01,-0.11,,,,,6.0,5.0,,,,,1.0,,1.0,,32.96,1.91,4.0,53.811906832947,6.0,24.046765773366,7.3585492815038,7.4874350748437,1.0,0.53,0.35,0.15,0.06,1.0,,5.0,,,,0.437,,0.53,,,1.0,2.0,1.0672,1.0,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Reece James,Reece,James,R. James,D,24.0,180,4713,24,True,4.0,3.0,,,0.0,2.0,2.0,1.0,2.0,,,,,,,,16.0,8.0,6.5,1.0,0.00025051,,0,,-0.01,-0.07,,,,,2.0,1.0,1.0,,1.0,1.0,,,,,26.29,1.35,2.0,3.8115384033222,1.0,-1.2910646587393,,,0.0,0.05,0.17,0.12,0.03,,1.0,1.0,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Trevoh Chalobah,Trevoh,Chalobah,T. Chalobah,D,23.0,190,4713,12,True,,,,,0.0,,,,,1.0,1.0,,,,,,1.0,1.0,,,,,0,,,,,,,,,,,,,,,,,,24.11,0.38,0.0,,,,,,,,0.03,0.02,0.0,,1.0,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-James Trafford,James,Trafford,J. Trafford,G,1.0,197,4713,23,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Jordan Pickford,Jordan,Pickford,J. Pickford,G,1.0,185,4713,1,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Dan Burn,,,D. Burn,D,33.0,201,4713,15,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-John Stones,John,Stones,J. Stones,D,,188,4713,5,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Nico O'Reilly,Nico,O’Reilly,N. O’Reilly,D,33.0,193,4713,3,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Jordan Henderson,,,J. Henderson,M,6.0,183,4713,14,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Anthony Gordon,Anthony,Gordon,A. Gordon,F,10.0,183,4713,18,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Harry Kane,Harry,Kane,H. Kane,F,9.0,188,4713,9,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
-Noni Madueke,,,N. Madueke,F,20.0,182,4713,20,True,,,,,,,,,,,,,,,,,0.0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,England,,12813003,France,England,4,6,"FIFA World Cup, Knockout",World Cup 2026,Ended,2026-07-18 21:00:00
+name
+first_name
+last_name
+short_name
+position
+jersey_number
+height
+team_id
+shirt_number
+substitute
+total_pass
+accurate_pass
+total_long_balls
+accurate_long_balls
+goal_assist
+accurate_own_half_passes
+total_own_half_passes
+accurate_opposition_half_passes
+total_opposition_half_passes
+duel_lost
+challenge_lost
+ball_recovery
+good_high_claim
+saved_shots_from_inside_the_box
+penalty_faced
+saves
+minutes_played
+touches
+rating
+possession_lost_ctrl
+expected_assists
+keeper_save_value
+total_shots
+goals_prevented
+pass_value_normalized
+defensive_value_normalized
+goalkeeper_value_normalized
+total_cross
+aerial_lost
+aerial_won
+duel_won
+total_contest
+outfielder_block
+interception_won
+total_tackle
+won_tackle
+unsuccessful_touch
+penalty_conceded
+was_fouled
+fouls
+top_speed
+kilometers_covered
+number_of_sprints
+total_ball_carries_distance
+ball_carries_count
+total_progression
+best_ball_carry_progression
+total_progressive_ball_carries_distance
+progressive_ball_carries_count
+dribble_value_normalized
+meters_covered_running_km
+meters_covered_high_speed_running_km
+meters_covered_sprinting_km
+dispossessed
+total_clearance
+won_contest
+clearance_off_line
+last_man_tackle
+blocked_scoring_attempt
+expected_goals
+key_pass
+shot_value_normalized
+big_chance_created
+shot_off_target
+big_chance_missed
+on_target_scoring_attempt
+expected_goals_on_target
+goals
+total_offside
+total_keeper_sweeper
+accurate_keeper_sweeper
+penalty_won
+accurate_cross
+error_lead_to_ashot
+team_name
+captain
+match_id
+home_team
+away_team
+home_score
+away_score
+tournament
+season
+status
+start_time
