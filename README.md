@@ -19,3 +19,7 @@ what analysis can we do ?
 
 I was thinking mixed effect reg but that will constrict the scope and make this a case study.
 
+### Title ?
+
+Why are third place matches has more sum of goals ?
+analysis of xG,Tactical openess, and post-semifinal behaviour 
